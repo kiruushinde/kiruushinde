@@ -1,5 +1,5 @@
 
-[![MasterHead](https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif)](https://www.linkedin.com/in/kiran-shinde-sde1/)
+[![MasterHead](https://media.istockphoto.com/id/974650666/vector/vector-line-web-concept-for-programming.jpg?s=1024x1024&w=is&k=20&c=WLg4D1jpViRe92EY1VBBAqkgbuVMeDO81sjVZ4_qceU=)](https://www.linkedin.com/in/kiran-shinde-sde1/)
 
 
 <h1 align="center">Hi 👋, I'm Kiran Shinde</h1>
