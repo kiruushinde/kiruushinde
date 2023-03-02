@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA, MERN, React Native**
 
-- 👨‍💻 All of my projects are available at [kiruushinde](kiruushinde)
+- 👨‍💻 All of my projects are available at [kiruushinde](https://app.netlify.com/teams/kiruushinde/overview)
 
 - 💬 Ask me about **DSA, C++, Web development**
 
