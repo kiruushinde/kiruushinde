@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/kiruushinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kiruushinde" height="30" width="40" /></a>
-<a href="https://twitter.com/kiran_1686" target="blank"><img align="center" src="" alt="kiran_1686" height="30" width="40" /></a>
+<a href="https://dev.to/kiruushinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kiruushinde" height="40" width="40" /></a>
+<a href="https://twitter.com/kiran_1686" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.PXTov9TveYX3Upu592UOygHaHa?w=219&h=219&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="kiran_1686" height="60" width="50" /></a>
 <a href="https://linkedin.com/in/kiran shinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiran shinde" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shindekiran1686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shindekiran1686" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kiranshinde_1686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kiranshinde_1686" height="30" width="40" /></a>
