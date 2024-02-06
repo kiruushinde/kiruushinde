@@ -8,7 +8,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiruushinde&label=Profile%20views&color=0e75b6&style=flat" alt="kiruushinde" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **DSA, MERN, React Native**
+- 🌱 I’m currently learning **FullStack Development & DSA**
+
+- ✨ I'm working as a **Solution Analyst Intern @SankeySolutions**
+
+- 😋 Established and Teaching coding to Jr. in our college O(1) programming club AMGOI
 
 - 👨‍💻 All of my projects are available at [kiruushinde](https://app.netlify.com/teams/kiruushinde/overview)
 
