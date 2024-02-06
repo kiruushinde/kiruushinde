@@ -12,7 +12,7 @@
 
 - ✨ I'm working as a **Solution Analyst Intern @SankeySolutions**
 
-- 😋 Established and Teaching coding to Jr. in our college O(1) programming club AMGOI
+- 😋 Established coding club and Teaching to Jr. in our college #O(1) programming club AMGOI
 
 - 👨‍💻 All of my projects are available at [kiruushinde](https://app.netlify.com/teams/kiruushinde/overview)
 
