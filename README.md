@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **FullStack Development & DSA**
 
-- ✨ I'm working as a **Solution Analyst Intern @SankeySolutions**
+- ✨ I'm working as a **Solution Analyst @SankeySolutions**
 
 - 😋 Established coding club and Teaching to Jr. in our college #O(1) programming club AMGOI
 
